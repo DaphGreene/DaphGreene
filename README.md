@@ -1,49 +1,59 @@
 # Hi, I'm Daphne Greene 👋
 
-I'm a software and game developer, musician, and creative technologist who likes building things where games, music, community, and interactive technology overlap.
+I'm a software and game developer, musician, and creative technologist with professional full-stack development experience and independent game-development work across **Unity/C#**, **Godot/GDScript**, and **Java/Spring Boot**.
 
-I work across Unity/C#, Godot/GDScript, and Java/Spring, with a particular interest in gameplay systems, persistent state, user-facing tools, and projects that connect back to the creative worlds I'm already building.
+I like building interactive systems, persistent state, user-facing tools, and projects where software, games, music, and creative communities overlap.
 
 ## Featured Projects
 
 ### Outgoing Male
-A Unity/C# game project and my strongest current game-development portfolio piece.
 
-Current systems include persistent progression, collection and skin UI, audio and pause handling, development debug tools, and ongoing gameplay iteration.
+A Unity/C# arcade game and my strongest current game-development portfolio project.
+
+The project began from **Zigurous's Flappy Bird tutorial** and has grown into a Daphne + The Glitches-themed game with project-specific systems including persistent stamp progression, collection and skin UI, audio and pause handling, and development/debug tooling.
+
+The current source has been directly verified in **Unity 6000.4.2f1**, reaching interactive gameplay and Game Over in Play Mode. A strict **WebGL development build also completed with zero build errors**.
 
 ### Tex-Mex Breakup
-A Godot/GDScript prototype built around a cooking and economy loop.
 
-Implemented systems include purchasing, timed cooking, sales, upgrades, and safeguards designed to keep the economy recoverable.
+A playable Godot/GDScript prototype built around a cooking and economy loop.
+
+The verified core loop includes purchasing eggs, timed cooking, selling completed food, upgrades, and recovery safeguards designed to keep the economy from becoming permanently stuck.
 
 ### Daphne + The Glitches Capstone
+
 A Java/Spring Boot coursework capstone built around my band, Daphne + The Glitches.
 
-It includes user registration, authentication, persistent profiles, tour-date content, Thymeleaf templates, JPA persistence, Spring Security, and MariaDB integration.
+The application uses **Spring Boot, Thymeleaf, JPA, Spring Security, and MariaDB** and includes user registration and authentication, persistent user profiles, and database-backed tour-date management.
 
-Some of its account and community-facing ideas later became relevant to my thinking around a broader DATG companion app / Arcade ecosystem, though the original project predates that concept.
+The project has been successfully built and run locally with **Java 17 and MariaDB**, with registration, authentication, profile persistence, and tour-date creation/persistence manually verified.
+
+Some of the project's account and community ideas later informed my thinking around a broader DATG companion-app and arcade ecosystem, although the capstone predates that work.
 
 ### Glitch Bomber
-A Unity/C# learning-and-extension project based on tutorial foundations, with additional movement work, debugging, and bug fixes.
+
+A Unity/C# learning-and-extension project that began from **Zigurous's Bomberman tutorial**.
+
+The public repository documents that tutorial foundation transparently and has since received project maintenance, Unity/package upgrades, and additional development work. I preserve the distinction between the tutorial foundation and later project work rather than presenting the original implementation as wholly from scratch.
 
 ## Tools & Technologies
 
-- C# / Unity
-- GDScript / Godot
-- Java / Spring Boot
-- HTML / CSS / JavaScript
-- MariaDB
-- Git / GitHub
+- **Languages:** C#, GDScript, Java, JavaScript
+- **Game Development:** Unity, Godot
+- **Web / Application:** Spring Boot, Thymeleaf, JPA, Spring Security, HTML, CSS
+- **Data:** MariaDB
+- **Development:** Git, GitHub
 
 ## What I'm Working On
 
-- Improving and documenting my game-development portfolio
-- Continuing development on Outgoing Male and other Memory Leak Games projects
-- Exploring interactive ideas connected to Daphne + The Glitches
-- Getting better at architecture, debugging, testing, and maintainable project structure
+- Building and documenting game-development projects with stronger testing and reproducibility
+- Developing interactive projects through Memory Leak Games
+- Exploring games and software connected to Daphne + The Glitches
+- Improving my architecture, debugging, testing, and maintainable-project practices
 
 ## About Me
 
 - she/her
 - Lead vocalist and guitarist for Daphne + The Glitches
+- Professional background spanning software development, customer-facing technical work, and creative production
 - Interested in game development, creative technology, music, and interactive community experiences
