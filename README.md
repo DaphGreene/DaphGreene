@@ -10,9 +10,9 @@ I like building interactive systems, persistent state, user-facing tools, and pr
 
 A Unity/C# arcade game and my strongest current game-development portfolio project.
 
-The project began from **Zigurous's Flappy Bird tutorial** and has grown into a Daphne + The Glitches-themed game with project-specific systems including persistent stamp progression, collection and skin UI, audio and pause handling, and development/debug tooling.
+The project began from **Zigurous's Flappy Bird tutorial** and has grown into a substantially expanded Daphne + The Glitches-themed game with persistent progression, stamp collection, upgrades and cosmetics, multiple difficulty modes, cloud saves, DATG account sign-in, online leaderboards, audio and pause systems, and development/debug tooling.
 
-The current source has been directly verified in **Unity 6000.4.2f1**, reaching interactive gameplay and Game Over in Play Mode. A strict **WebGL development build also completed with zero build errors**.
+The current **v0.3.1** release was built in **Unity 6000.6.9f1** and is live on itch.io as a WebGL game. The release is tied to a tagged source commit and includes online identity and leaderboard functionality, cloud-backed saves, guest-to-account save migration, persistent collection/progression systems, and multiple gameplay modes.
 
 ### Tex-Mex Breakup
 
